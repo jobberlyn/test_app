@@ -1,0 +1,2 @@
+class PaycheckItem < ApplicationRecord 
+end
